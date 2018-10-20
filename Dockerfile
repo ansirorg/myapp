@@ -1,4 +1,4 @@
 FROM centos
 MAINTAINER John
-RUN touch /a 
+RUN touch /b
 RUN mkdir /test
